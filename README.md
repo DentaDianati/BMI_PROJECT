@@ -2,7 +2,7 @@
 
 <img width="2736" height="1824" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/10bb7f26-9e17-4471-ad0d-d821b90dd15a" />
 
-enter start to start the prject!
+enter start to start the project!
 
 <img width="2736" height="1824" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c7dd4579-17af-4de7-a90b-49667e842bfa" />
 
